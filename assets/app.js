@@ -4,7 +4,7 @@
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
-const PlAYER_STORAGE_KEY = "F8_PLAYER";
+const PlAYER_STORAGE_KEY = "MUSIC_PLAYER";
 
 const player = $(".player");
 const cd = $(".cd");
